@@ -1,2 +1,2 @@
 # Java-Bank-Management-System
-A java and oracle based gui application to manage various operations of bank. 
+Java Bank Management System  allows users to manage their bank accounts.It provides various functionalities like deposit and withdrawal. It is built using the Java programming language, the Swing gui library, and the Oracle database.The main aim of this Mini DBMS project is to keep record of customer transactions in the bank. We aim to demonstrate the use of create, read, update and delete  operations through this project.
